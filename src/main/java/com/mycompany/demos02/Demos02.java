@@ -16,7 +16,8 @@ public class Demos02 {
         //Nested if Statements using JOptionPane
         
         //Ask the user for their test score 
-        int testScore; // Number
+        int testScore; // Number fo things
+    
         String input; // To hold the users input
         
         //Input the numeric test Score
