@@ -1,2 +1,0 @@
-# Demos
-Self Practise 
